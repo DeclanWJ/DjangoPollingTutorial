@@ -1,7 +1,8 @@
 Django Polling Project
 ----------------------
-Description : Basic Django APP for framework and API practice
-Goal : Learn more about Django and its framework setup. As well as included tooling, libraries, and useful shortcuts. Additionally, just get continuous practice coding, testing, using GitHub, and debugging.
+**Description** : Basic Django APP for framework and API practice
+
+**Goal** : Learn more about Django and its framework setup. As well as included tooling, libraries, and useful shortcuts. Additionally, just get continuous practice coding, testing, using GitHub, and debugging.
 
 **What Did I Learn?**
 ---------------------

@@ -1,19 +1,27 @@
 Django Polling Project
 ----------------------
 Description : Basic Django APP for framework and API practice
+Goal : Learn more about Django and its framework setup. As well as included tooling, libraries, and useful shortcuts. Additionally, just get continuous practice coding, testing, using GitHub, and debugging.
 
-File information
-----------------
-**manage.py**: A command-line utility that lets you interact with this Django project in various ways. You can read all the details about manage.py in django-admin and manage.py.
-
-**mysite/**: A directory that is the actual Python package for your project. Its name is the Python package name you’ll need to use to import anything inside it (e.g. mysite.urls).
-
-**mysite/__init__.py**: An empty file that tells Python that this directory should be considered a Python package. If you’re a Python beginner, read more about packages in the official Python docs.
-
-**mysite/settings.py**: Settings/configuration for this Django project. Django settings will tell you all about how settings work.
-
-**mysite/urls.py**: The URL declarations for this Django project; a “table of contents” of your Django-powered site. You can read more about URLs in URL dispatcher.
-
-**mysite/asgi.py**: An entry-point for ASGI-compatible web servers to serve your project. See How to deploy with ASGI for more details.
-
-**mysite/wsgi.py**: An entry-point for WSGI-compatible web servers to serve your project. See How to deploy with WSGI for more details.
+**What Did I Learn?**
+---------------------
+1. Django basic framework setup and initialization.
+2. Proper file structure setup in order for Django to pick up information.
+3. Creating Views and setting up Models.
+4. Setting up URLs , as well as generic URL setup.
+5. Setting up a Database and storing Model information. Including running migrations to talk to the database.
+6. Using Lookup API to pull information from the database. Using filters, group by, ordering, etc.
+7. Django Admin site specifics and use cases.
+8. Setting up Templates for Views to use and display information on web pages. As well as the render() shortcut
+9. Error handling, info passing, and 404 raising.
+10. Writing HTML forms. CSRF protection. DB functions and manipulations.
+11. Http Response Redirect, redirecting users to other URLs on submissions.
+12. Reverse() shortcut to avoid hard coding URLs
+13. Consolidating code, and using Django built in Generic Views
+14. Test Driven Deployment strategies.
+15. Testing Views
+16. Django built in test client
+17. Testing generic views
+18. Customizing App's "look and feel" with static files, creating stylesheets in CSS, and importing files for decoration.
+19. Customizing Admin Page, and inserting more manipulation features. As well as order/sorting abilities.
+20. Debugging and fixing issues. Continuous integration and deployment. 
